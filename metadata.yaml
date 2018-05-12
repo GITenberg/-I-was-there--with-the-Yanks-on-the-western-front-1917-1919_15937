@@ -1,0 +1,39 @@
+_repo: -I-was-there--with-the-Yanks-on-the-western-front-1917-1919_15937
+_version: 0.1.0
+alternative_title: '"I was there" with the Yanks in France'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Baukhage, Hilmar R. (Hilmar Robert)
+    alias: Baukhage, Hilmar Robert
+    birthdate: &id001 1889
+    gutenberg_agent_id: '33011'
+    url: http://www.gutenberg.org/2009/agents/33011
+  - agent_name: Baldridge, Cyrus Leroy
+    aliases:
+    - Baldridge, C. Leroy (Cyrus Leroy)
+    - Baldridge, Cyrus Le Roy
+    birthdate: *id001
+    deathdate: 1977
+    gutenberg_agent_id: '6382'
+    url: http://www.gutenberg.org/2009/agents/6382
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Leroy_Baldridge
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15937'
+  lccn: '19025937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'World War, 1914-1918 -- Pictorial works'
+- !lcc 'D501'
+title: '"I was there" with the Yanks on the western front, 1917-1919'
+url: http://www.gutenberg.org/ebooks/15937
