@@ -8,19 +8,21 @@ creator:
   authors:
   - agent_name: Baukhage, Hilmar R. (Hilmar Robert)
     alias: Baukhage, Hilmar Robert
-    birthdate: &id001 1889
+    birthdate: 1889
     gutenberg_agent_id: '33011'
     url: http://www.gutenberg.org/2009/agents/33011
   - agent_name: Baldridge, Cyrus Leroy
     aliases:
     - Baldridge, C. Leroy (Cyrus Leroy)
     - Baldridge, Cyrus Le Roy
-    birthdate: *id001
+    birthdate: 1889
     deathdate: 1977
     gutenberg_agent_id: '6382'
     url: http://www.gutenberg.org/2009/agents/6382
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Leroy_Baldridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15937#-I-was-there--with-the-Yanks-on-the-western-front-1917-1919
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-05-29'
 gutenberg_type: Text
